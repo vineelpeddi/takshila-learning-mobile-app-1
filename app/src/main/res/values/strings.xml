@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Takshila Learning</string>
+    <string name="title_search">Search</string>
+    <string name="title_courses">My Courses</string>
+    <string name="title_help">Help</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for_courses">SEARCH FOR COURSES</string>
+    <string name="school_courses">SCHOOL COURSES</string>
+    <string name="skill_courses">SKILL COURSES</string>
+    <string name="professional_couses">PROFESSIONAL COUSES</string>
+    <string name="entrance_exam">ENTRANCE EXAM</string>
+    <string name="log_in_to_view_your_courses">LOG IN TO VIEW YOUR COURSES</string>
+    <string name="look_for_courses_to_add">LOOK FOR COURSES TO ADD</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
